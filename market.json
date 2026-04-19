@@ -3,9 +3,9 @@
     "name": "PDF Reader",
     "description": "This custom action adds the ability to read PDF files.",
     "creator": "Duck Inc.",
-    "json": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/master/pdf/custom_actions.json",
-    "script": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/master/pdf/pdf.py",
-    "instructions": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/master/pdf/instructions_pdf.md"
+    "json": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/pdf/custom_actions.json",
+    "script": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/pdf/pdf.py",
+    "instructions": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/pdf/instructions_pdf.md"
   },
   "example": {
     "name": "Open app",
