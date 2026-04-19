@@ -1,0 +1,11 @@
+{
+  "pdf": {
+    "name": "PDF Reader",
+    "description": "This custom action adds the ability to read PDF files.",
+    "creator": "Duck Inc.",
+    "path": "pdf",
+    "trigger": "pdf",
+    "action": "actions/custom/pdf/pdf.py",
+    "instructions": "actions/custom/pdf/instructions_pdf.md"
+  }
+}
