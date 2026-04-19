@@ -22,5 +22,13 @@
     "script": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/requirements/requirements.py",
     "json": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/requirements/custom_actions.json",
     "instructions": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/requirements/instructions_requirements.md"
+  },
+  "plan-plus": {
+    "name": "Plan Plus",
+    "description": "Easily create detailed plans for your projects!",
+    "creator": "Duck Inc.",
+    "script": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/plan_plus/plan.py",
+    "json": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/plan_plus/custom_actions.json",
+    "instructions": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/plan_plus/instructions_plan.md"
   }
 }

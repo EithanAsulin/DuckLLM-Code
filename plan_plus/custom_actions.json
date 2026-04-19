@@ -1,0 +1,11 @@
+{
+    "plan-plus": {
+        "name": "Plan Plus",
+        "description": "Easily create detailed plans for your projects!",
+        "creator": "Duck Inc.",
+        "path": "plan_plus",
+        "trigger": "plan",
+        "action": "action/custom/plan_plus/plan.py",
+        "instructions": "action/custom/plan_plus/instructions_plan.md"
+    }
+}
