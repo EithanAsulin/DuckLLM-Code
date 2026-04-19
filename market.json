@@ -1,0 +1,10 @@
+{
+  "pdf": {
+    "name": "PDF Reader",
+    "description": "This custom action adds the ability to read PDF files.",
+    "creator": "Duck Inc.",
+    "json": "https://github.com/EithanAsulin/DuckLLM-Code/blob/actions/pdf/custom_actions.json",
+    "script": "https://github.com/EithanAsulin/DuckLLM-Code/resolve/actions/pdf/pdf.py",
+    "instructions": "https://github.com/EithanAsulin/DuckLLM-Code/blob/actions/pdf/instructions_pdf.md"
+  }
+}
