@@ -1,0 +1,11 @@
+{
+    "git": {
+        "name": "Git Automator",
+        "description": "Git Automator allows the AI to easily interfact with git repositories.",
+        "creator": "Duck Inc.",
+        "path": "git",
+        "trigger": "git",
+        "action": "actions/custom/git/git.py",
+        "instructions": "actions/custom/git/instructions_git.md"
+    }
+}

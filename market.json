@@ -7,12 +7,19 @@
     "script": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/pdf/pdf.py",
     "instructions": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/pdf/instructions_pdf.md"
   },
-  "example": {
-    "name": "Open app",
-    "description": "This custom action adds the ability to open Apps",
+  "git": {
+    "name": "Git Automator",
+    "description": "Git Automator allows the AI to easily interfact with git repositories.",
     "creator": "Duck Inc.",
-    "json": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/master/pdf/custom_actions.json",
-    "script": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/master/pdf/pdf.py",
-    "instructions": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/master/pdf/instructions_pdf.md"
+    "json": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/git/custom_actions.json",
+    "script": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/git/git.py",
+    "instructions": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/git/instructions_git.md"
+  },
+  "requirements": {
+    "name": "Requirements Maker",
+    "description": "Easily create requirements.txt for your projects!",
+    "creator": "Duck Inc.",
+    "json": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/requirements/custom_actions.json",
+    "instructions": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/requirements/instructions_requirements.md"
   }
 }

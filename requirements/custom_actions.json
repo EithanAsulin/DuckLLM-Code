@@ -1,0 +1,11 @@
+{
+    "requirements": {
+        "name": "Requirements Maker",
+        "description": "Easily create requirements.txt for your projects!",
+        "creator": "Duck Inc.",
+        "path": "requirements",
+        "trigger": "requirements",
+        "action": "actions/custom/requirements/requirements.py",
+        "instructions": "actions/custom/requirements/instructions_requirements.md"
+    }
+}
