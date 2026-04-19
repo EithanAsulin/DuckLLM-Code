@@ -5,7 +5,7 @@
         "creator": "Duck Inc.",
         "path": "requirements",
         "trigger": "requirements",
-        "action": "actions/custom/requirements/requirements.py",
-        "instructions": "actions/custom/requirements/instructions_requirements.md"
+        "action": "action/custom/requirements/requirements.py",
+        "instructions": "action/custom/requirements/instructions_requirements.md"
     }
 }

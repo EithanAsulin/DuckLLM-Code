@@ -19,6 +19,7 @@
     "name": "Requirements Maker",
     "description": "Easily create requirements.txt for your projects!",
     "creator": "Duck Inc.",
+    "script": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/requirements/requirements.py",
     "json": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/requirements/custom_actions.json",
     "instructions": "https://raw.githubusercontent.com/EithanAsulin/DuckLLM-Code/refs/heads/master/requirements/instructions_requirements.md"
   }
