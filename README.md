@@ -4,7 +4,7 @@
 **Coditan is an upcoming** AI-powered Autonomous **Coding Agent,** 
 
 ## ✨️ Purpose
-**Coditan** allows you to **Make any model into a coding assistant** using a **BYOK (Bring your Own key) Psychology,** bring any model **Cloud or Local** and turn them into your **Coding assistants.**
+**Coditan** allows you to **Make any model into a coding assistant** using a **BYOK (Bring your Own key) Philosophy,** bring any model **Cloud or Local** and turn them into your **Coding assistants.**
 
 **Coditan is planned to be a freemium App** with plans for **Premium features which help saving context & time.**
 
